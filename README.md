@@ -1,3 +1,2 @@
 # roshandemo
-my first git reposito tora
-kt
+my first git repository
